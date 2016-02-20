@@ -1,0 +1,18 @@
+// Place your settings in the file
+// "Packages/User/AoikFileDeletedAutoClose.sublime-settings",
+// which overrides the settings in here.
+{
+    // Enable this plugin
+    "enable": true,
+
+    // Print debug messages
+    "debug": true,
+
+    // Do not close a dirty view.
+    // CAUTION: If set to false, unsaved changes will be lost.
+    "ignore_dirty_view": true,
+
+    // Last setting without an ending comma,
+    // in order for others to always have one.
+    "": ""
+}

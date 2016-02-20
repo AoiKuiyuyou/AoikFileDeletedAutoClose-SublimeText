@@ -1,0 +1,15 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "AoikFileDeletedAutoClose",
+            "details": "https://github.com/AoiKuiyuyou/AoikFileDeletedAutoClose-SublimeText",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ]
+        }
+    ]
+}
