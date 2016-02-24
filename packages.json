@@ -4,6 +4,7 @@
         {
             "name": "AoikFileDeletedAutoClose",
             "details": "https://github.com/AoiKuiyuyou/AoikFileDeletedAutoClose-SublimeText",
+            "labels": ["file close", "window"],
             "releases": [
                 {
                     "sublime_text": "*",
