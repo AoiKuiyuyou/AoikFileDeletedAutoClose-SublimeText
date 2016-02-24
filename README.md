@@ -6,6 +6,8 @@ Tested working with:
 - Sublime Text 2
 - Sublime Text 3
 
+![Image](/screencast.gif)
+
 ## Table of Contents
 - [Setup](#setup)
   - [Setup via git](#setup-via-git)
